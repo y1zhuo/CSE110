@@ -8,7 +8,7 @@
 *The programming languages I learned are C++, JAVA and C language. My career goal is become a software engineer.*
 
 ## My Life
-*My favorite sport is basketball. I am enjoy watching NBA with my friends. I also like to watch sitcoms and animations. I also learned baking during the pandemic.*[baking](pictures/baking.jpg)
+*My favorite sport is basketball. I am enjoy watching NBA with my friends. I also like to watch sitcoms and animations. I also learned baking during the pandemic.*[baking](picture/baking.jpg)
 
 **My motto is:**
 > Keep moving, never back.
