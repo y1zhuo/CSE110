@@ -1,7 +1,7 @@
 # Yue Zhuo's User Page
 [here is my photo](https://raw.githubusercontent.com/y1zhuo/CSE110/main/picture/YueZhuo.jpg)
 
-[CSE 110 Lab1](##CSE-110-Lab-1)
+[CSE 110 Lab1](##CSE-110-Lab1)
 
 ## Who am I?
 **I am a senior in UCSD. My major is computer engineering.**
@@ -17,7 +17,7 @@
 
 I believe `Failure`, 'Feedback` and `Focus` are the 3 F's required for purposeful practie.
 
-## CSE 110 Lab 1
+## CSE 110 Lab1
 1. Installing Visual Studio Code and Extensions.
    - Draw.io 
    - LiveShare
