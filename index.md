@@ -16,22 +16,3 @@
 > Keep moving, never back.
 
 I believe `Failure`, 'Feedback` and `Focus` are the 3 F's required for purposeful practie.
-
-## CSE 110 Lab1
-1. Installing Visual Studio Code and Extensions.
-   - Draw.io 
-   - LiveShare
-   - Markdown All In One
-   - CodeStream
-2. (Re)Familiarizing Ourselves with Git
-   - To open [README](README.md) of this repository 
-4. Using Markdown
-  - [x] Headings
-  - [x] Styling text
-  - [x] Quoting text
-  - [x] Quoting code
-  - [x] External links
-  - [x] Section links
-  - [x] Relative links
-  - [x] Ordered and Unordered lists
-  - [x] Task lists
