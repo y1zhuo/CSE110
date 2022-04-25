@@ -14,4 +14,4 @@
 **My motto is:**
 > Keep moving, never back.
 
-I believe `Failure`, 'Feedback` and `Focus` are the 3 F's required for purposeful practie.
+I believe `Failure, Feedback and Focus` are the 3 F's required for purposeful practie.
